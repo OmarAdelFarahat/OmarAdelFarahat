@@ -1,9 +1,6 @@
 # Omar Adel Farahat
 
-BI Developer & Data Analyst
-
-Power BI • SQL • Python • ETL • Data Warehousing • Data Modeling
-
+Business Intelligence & Data Analyst | Power BI | SQL | ETL | Data Modeling
 ---
 
 ## Featured Projects
