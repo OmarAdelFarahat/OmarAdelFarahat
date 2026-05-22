@@ -8,10 +8,10 @@ Focused on transforming raw data into actionable business insights through data 
 
 ## Featured Projects
 
-### HR Employee Attrition Analysis Dashboard
+### HR Employee Attrition Analytics Case Study | Power BI
 End-to-end HR analytics case study built in Power BI to analyze workforce attrition trends, employee turnover drivers, and retention insights using DAX measures and interactive dashboards.
 
-### Retail Sales Data Warehouse & ETL Pipeline
+### Retail Sales Data Warehouse & ETL Pipeline | Python & SQL Server
 Data engineering project demonstrating Python ETL pipelines, SQL Server data warehousing, dimensional modeling, query optimization, and BI-ready reporting architecture.
 
 ---
@@ -46,11 +46,3 @@ Data engineering project demonstrating Python ETL pipelines, SQL Server data war
 
 - LinkedIn: :contentReference[oaicite:0]{index=0}
 - Email: omaradel8850@gmail.com
-
----
-
-## GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAdelFarahat&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAdelFarahat&layout=compact)
