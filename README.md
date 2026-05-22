@@ -1,22 +1,22 @@
 # Omar Adel Farahat
 
-Business Intelligence & Data Analyst with experience in Power BI, SQL, ETL pipelines, dashboard development, and analytical reporting.
+BI Developer & Data Analyst
 
-Focused on transforming raw data into actionable business insights through data modeling, visualization, and analytics solutions.
+Power BI • SQL • Python • ETL • Data Warehousing • Data Modeling
 
 ---
 
 ## Featured Projects
 
 ### HR Employee Attrition Analytics Case Study | Power BI
-End-to-end HR analytics case study built in Power BI to analyze workforce attrition trends, employee turnover drivers, and retention insights using DAX measures and interactive dashboards.
+Interactive HR analytics dashboard analyzing attrition trends, workforce risks, and employee retention insights using Power BI, DAX, and Power Query.
 
 ### Retail Sales Data Warehouse & ETL Pipeline | Python & SQL Server
-Data engineering project demonstrating Python ETL pipelines, SQL Server data warehousing, dimensional modeling, query optimization, and BI-ready reporting architecture.
+End-to-end ETL and data warehousing project using Python, Pandas, SQL Server, dimensional modeling, and reporting optimization techniques.
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
 - Power BI
 - DAX
@@ -25,24 +25,13 @@ Data engineering project demonstrating Python ETL pipelines, SQL Server data war
 - Python
 - Pandas
 - ETL Pipelines
-- Data Modeling
-- Star Schema
-- Dashboard Development
-- Analytical Reporting
-
----
-
-## Currently Improving
-
-- Advanced DAX & Power BI
-- SQL Optimization
 - Data Warehousing
-- Business Analytics
-- Dashboard Storytelling
+- Star Schema Modeling
+- Dashboard Development
 
 ---
 
-## Connect With Me
+## Connect
 
 - LinkedIn: :contentReference[oaicite:0]{index=0}
 - Email: omaradel8850@gmail.com
