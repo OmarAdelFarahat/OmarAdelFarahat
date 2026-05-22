@@ -33,5 +33,5 @@ End-to-end ETL and data warehousing project using Python, Pandas, SQL Server, di
 
 ## Connect
 
-- LinkedIn: :contentReference[oaicite:0]{index=0}
+- LinkedIn: https://www.linkedin.com/in/omarfarahat/
 - Email: omaradel8850@gmail.com
